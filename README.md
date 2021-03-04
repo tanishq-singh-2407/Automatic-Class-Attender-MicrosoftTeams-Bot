@@ -14,10 +14,10 @@ modern solution.
 
 # How to setup, accourding to your needs.?
 #### 1. Download the zip file, and then extract it.
-![Zip download image](https://github.com/tanishq-singh-2301/test/blob/master/MicrosoftTeams-Bot/download.PNG)
+![Zip download image](https://github.com/tanishq-singh-2301/Automatic-Class-Attender-MicrosoftTeams-Bot/blob/main/IMAGES%20FOR%20README%20FILE/download.PNG)
 #### 2. Find the version of your chrome browser (Setting > About Chrome)
 #### 3. [Download](https://chromedriver.chromium.org/downloads) the chromedriver.exe file accourding to your browser version and paste the chromedriver.exe file in the C:/ drive, like this
-![pasting the chromedriver.exe file in C:/drive image](https://github.com/tanishq-singh-2301/test/blob/master/MicrosoftTeams-Bot/setup-chromedriver.PNG)
+![pasting the chromedriver.exe file in C:/drive image](https://github.com/tanishq-singh-2301/Automatic-Class-Attender-MicrosoftTeams-Bot/blob/main/IMAGES%20FOR%20README%20FILE/setup-chromedriver.PNG)
 #### 4. Setting up the main.py accourding to your needs.
 * Enter your email id inside single inverted commas. (29th line)
 ````python
@@ -29,7 +29,7 @@ webhookUrl = 'ENTER YOUR WEBHOOK URL TOKEN'
 ````
 ### Discord Message (in realtime as the bot works)
 
-| <img src="https://github.com/tanishq-singh-2301/test/blob/master/MicrosoftTeams-Bot/dis-msg-1.PNG" alt="Discord message image" width="65%" /> | <img src="https://github.com/tanishq-singh-2301/test/blob/master/MicrosoftTeams-Bot/dis-msg-2.jpg" alt="Discord message image" width="65%"/>
+| <img src="https://github.com/tanishq-singh-2301/Automatic-Class-Attender-MicrosoftTeams-Bot/blob/main/IMAGES%20FOR%20README%20FILE/dis-msg-1.PNG" alt="Discord message image" width="65%" /> | <img src="https://github.com/tanishq-singh-2301/Automatic-Class-Attender-MicrosoftTeams-Bot/blob/main/IMAGES%20FOR%20README%20FILE/dis-msg-2.jpg" alt="Discord message image" width="65%"/>
 | --- | --- |
 * If you don't have any webhook url neither you have a discord account.
 * Then you ethier make a discord account or comment sendMessage(): code (from 35th line to 50th line), like this
